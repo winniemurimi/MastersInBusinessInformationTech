@@ -1,3 +1,6 @@
+
+
+
 def get_positive_number():
     number = -1  # Initialize with a negative number
     while number < 0:
